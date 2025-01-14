@@ -9,4 +9,4 @@ venv/
 .ipynb_checkpoints/
 
 # Ignore large tar.gz files
-problem3/image_model/data/*.tar.gz
+CelestialCoders_SCC_Problem3/image_model/data/*.tar.gz
