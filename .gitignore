@@ -1,0 +1,12 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large tar.gz files
+CelestialCoders_SCC_Problem3/image_model/data/*.tar.gz
