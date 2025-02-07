@@ -67,24 +67,24 @@ The following PDF files contain the handwritten solutions for the theoretical qu
   - **Image Dataset**: A dataset of images representing raw signal data, suitable for convolutional neural networks (CNNs). [Image Dataset Link](https://as595.github.io/HTRU1/).
 
 - **Objectives**:
-  1. Preprocess both numerical and image datasets, including handling missing values, scaling, and transformations for CNN models.
+  1. Preprocess both Numerical and Image Datasets, including handling missing values, scaling, and transformations for CNN models.
   2. Develop and evaluate machine learning models (Random Forest, SVM, Neural Networks) for the numerical dataset and CNNs for the image dataset.
   3. Evaluate model performance using metrics like accuracy, precision, recall, F1 score, and ROC-AUC.
   4. Compare and discuss the performance of models trained on the numerical dataset versus the image dataset.
 
 ### Deliverables:
-- Preprocessed datasets and code for data cleaning and transformations.
+- Preprocessed datasets and code for Data Cleaning and Transformations.
 - Well-documented code for all models.
 - Performance evaluation report, including confusion matrices, ROC curves, and feature importance.
 
 ## Technologies Used
 - Python
 - Libraries: `scikit-learn`, `PyTorch`, `TensorFlow`, `matplotlib`, `seaborn`, `SciPy`
-- Tools: Jupyter Notebooks for code development
+- Tools: Jupyter Notebooks for Code Development
 
 ## Setup Instructions
 
-1. Clone the repository:
+1. Clone the Repository:
     ```bash
     git clone https://github.com/Dev31415926535/Space-Code-Challenge.git
     cd Space-Code-Challenge
