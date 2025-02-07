@@ -10,3 +10,9 @@ venv/
 
 # Ignore large tar.gz files
 CelestialCoders_SCC_Problem3/image_model/data/*.tar.gz
+
+# Ignore best_model.pth
+CelestialCoders_SCC_Problem3/image_model/best_model.pth
+
+# Ignore the 'data' directory
+CelestialCoders_SCC_Problem3/image_model/data/
